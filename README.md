@@ -1,2 +1,2 @@
 # fid
-Repository for my class
+THis Repo is for DIG2500C Fundamentals of Interactive Design
